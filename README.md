@@ -1,4 +1,4 @@
-git clone:<repository_url
+git clone:<repository_url>
 
 Navigate to the project directory: cd <project_directory>
 
